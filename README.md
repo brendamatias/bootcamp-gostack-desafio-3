@@ -8,13 +8,8 @@
    Desafio 03: Conceitos do ReactJS
 </h2>
 
-<h3 align="center">
-  <img alt="NodeJS" 
-    src="https://arrayoutofindex.files.wordpress.com/2017/06/node.png" width="180px"/>
-</h3>
-
 <p align="center">
-  <img alt="language version" src="https://img.shields.io/badge/Node-v_13.11.0-339933?logo=node.js">
+  <img alt="language version" src="https://img.shields.io/badge/React-v_16.13.1-339933?logo=react">
   <img alt="language version" src="https://img.shields.io/badge/Yarn-v_1.22.4-2C8EBB?logo=Yarn">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Fred-Reis/challenge_backEnd-01_GoStack-v2">
 
